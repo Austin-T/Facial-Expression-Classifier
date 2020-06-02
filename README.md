@@ -1,4 +1,4 @@
-# Facial-Expression-Recognition
+# Facial-Expression-Classifier
 This is a repository for real-time detection of facial expressions, using OpenCV and Keras.
 
 As your computer's default camera captures video, this program scans each frame to detect faces. The detected faces are then passed to a 
@@ -11,4 +11,4 @@ the best results, a face should be fully illuminated from both sides, and a high
 
 All code is avalable under 'GNU General Public License v3.0'. Enjoy!
 
-- Austin
+Austin
